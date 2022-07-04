@@ -6,7 +6,7 @@ const Experience = () => {
 	return (
 		<section id='experience'>
 			<h5>What Skills I have</h5>
-			<h2>My Experience</h2>
+			<h2>Tech That i have worked with</h2>
 			<div className='container experience_container'>
 				<div className='experience_frontend'>
 					<h3>Frontend Development</h3>
@@ -47,6 +47,12 @@ const Experience = () => {
 								<h4>STYLED-COMPONENT</h4>
 							</div>
 						</article>
+						<article className='experience_details'>
+							<BsBookmarkCheckFill className='exprerience_details-icons' />
+							<div>
+								<h4>Responsive Design</h4>
+							</div>
+						</article>
 					</div>
 				</div>
 
@@ -67,16 +73,23 @@ const Experience = () => {
 								<h4>MONGO DB</h4>
 							</div>
 						</article>
+
 						<article className='experience_details'>
 							<BsBookmarkCheckFill className='exprerience_details-icons' />
 							<div>
-								<h4>MYSQL</h4>
+								<h4>Express.js</h4>
 							</div>
 						</article>
 						<article className='experience_details'>
 							<BsBookmarkCheckFill className='exprerience_details-icons' />
 							<div>
-								<h4>PHP</h4>
+								<h4>Mongoose</h4>
+							</div>
+						</article>
+						<article className='experience_details'>
+							<BsBookmarkCheckFill className='exprerience_details-icons' />
+							<div>
+								<h4>MYSQL</h4>
 							</div>
 						</article>
 					</div>
