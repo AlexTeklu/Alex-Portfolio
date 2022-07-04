@@ -5,6 +5,7 @@ import Navbar from './components/Navbar/Navbar';
 import Portfolio from './components/Portfolio/Portfolio';
 import Contact from './components/Contact/Contact';
 import Experience from './components/Experience/Experience';
+import Footer from './components/Footer/Footer';
 
 function App() {
 	return (
@@ -16,6 +17,7 @@ function App() {
 			<Portfolio />
 			<Experience />
 			<Contact />
+			<Footer />
 		</>
 	);
 }
