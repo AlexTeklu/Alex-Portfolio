@@ -1,5 +1,5 @@
 import React from 'react';
-// import Pic from '../../Assets/proj1.jpg';
+import Pic from '../../Assets/Pic.png';
 import Pic1 from '../.././Assets/image.png';
 import Pic2 from '../.././Assets/image1.png';
 import Pic3 from '../.././Assets/image2.png';
@@ -28,13 +28,13 @@ const portfolioData = [
 		github: 'https://github.com/AlexTeklu/IASS-Quiz-Project',
 		demo: 'https://trivia-quizer.netlify.app/',
 	},
-	// {
-	//   id: 4,
-	//   image: Pic,
-	//   title: 'radio app using Sverige Radio API',
-	//   github: 'https://github.com',
-	//   demo: 'https://plantsub.netlify.app/'
-	// },
+	{
+		id: 4,
+		image: Pic,
+		title: 'MERN-App using Node.js & React',
+		github: 'https://github.com/AlexTeklu/mern-shop',
+		demo: 'https://mern-shop-electro.herokuapp.com/',
+	},
 	// {
 	//   id: 5,
 	//   image: Pic,
