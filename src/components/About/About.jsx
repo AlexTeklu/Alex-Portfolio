@@ -31,7 +31,7 @@ const About = () => {
 					<p>
 						{' '}
 						Hello! <br />I am Front-end Developer student at Hyper Island
-						Sweden, passionate for coding and problem solving and self motivated
+						Sweden, passionate for coding, problem solving and self motivated
 						who strives to build a career in the tech world.{' '}
 					</p>
 					<a href='#contact' className='btn btn-primary'>
