@@ -55,8 +55,8 @@ header {
 	transition: transform 50s ease;
 	border-radius: 50%;
 	overflow: hidden;
-	width: 250px;
-	height: 250px;
+	width: 400px;
+	height: 400px;
 }
 .scroll_down {
 	position: absolute;
