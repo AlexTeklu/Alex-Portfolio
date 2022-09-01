@@ -83,4 +83,8 @@ header {
 	.scroll_down {
 		display: none;
 	}
+	.myImage img {
+		width: 200px;
+		height: 200px;
+	}
 }
